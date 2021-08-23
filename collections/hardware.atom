@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://canadiancarclub.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://canadiancarclub.ca/collections/hardware.atom"/>
+  <title>Canadian Car Club</title>
+  <updated>2020-08-13T13:35:54-04:00</updated>
+  <author>
+    <name>Canadian Car Club</name>
+  </author>
+  <entry>
+    <id>https://canadiancarclub.ca/products/5572573200542</id>
+    <published>2020-08-13T13:35:54-04:00</published>
+    <updated>2020-08-13T13:35:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/products/sport-tracker-wired"/>
+    <title>Sport Tracker (Wired)</title>
+    <s:type>Hardware</s:type>
+    <s:vendor>WhereSafe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0442/8385/5006/products/Sport_1.jpg?v=1597340154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WhereSafe<br>
+        <strong>Type: </strong>Hardware<br>
+        <strong>Price: </strong>
+            115.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Powersports GPS Tracker</h1>
+<p>Know where your powersport toys are when not in use, recover if stolen, and keep your family safe when using them.</p>
+<p><span>Track any powered sports equipment or vehicle. With its small design and built-in antenna, the device can be secured and hidden almost anywhere.  The Sport Tracker tracks in real-time while in motion with 3 minute live updates. Never lose track of anything important and don't wait until it's too late!</span><br><br><span>Get WhereSafe real-time GPS technology and always know where your vehicle is. The smartphone app shows the location of the device and instant notifications tell you when the vehicle moves.</span><br><br><span>Just Activate the device on a WhereSafe service plan and place the device on a vehicle. Download the app and you are ready to go! </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GPS</s:tag>
+    <s:tag>Hardware</s:tag>
+    <s:tag>Telecommunication</s:tag>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5572573200542</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">115.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://canadiancarclub.ca/products/5572537581726</id>
+    <published>2020-08-13T13:26:13-04:00</published>
+    <updated>2020-08-13T13:26:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/products/vehicle-tracker-plug-in"/>
+    <title>Vehicle Tracker (Plug-In)</title>
+    <s:type>Hardware</s:type>
+    <s:vendor>WhereSafe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0442/8385/5006/products/OBD_Sino_whiteBG.jpg?v=1597339574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WhereSafe<br>
+        <strong>Type: </strong>Hardware<br>
+        <strong>Price: </strong>
+            199.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span>Plug-In Vehicle Tracker</span></h1>
+<p><span>An easily installed plug and play GPS Tracker that monitors for location, speed, off-hours driving, and erratic driving. Great for teenage or elderly drivers.</span></p>
+<p><span>Elderly parents still driving? Young teens just got their license? Just plug into your vehicle's OBDII port and know where your loved ones are at all times! Stop worrying and get the "power of where" in your hand!</span><br><br><span>Get WhereSafe real-time GPS technology and always know where your vehicle is. The smartphone app shows the location of the device and instant notifications tell you when the vehicle moves.</span><br><br><span>Just Activate the device on a WhereSafe service plan and place the device on a vehicle. Download the app and you are ready to go! </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware</s:tag>
+    <s:tag>Telecommunication</s:tag>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5572537581726</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://canadiancarclub.ca/products/5572502945950</id>
+    <published>2020-08-13T13:18:06-04:00</published>
+    <updated>2020-08-13T13:18:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/products/magnetic-gps-tracker"/>
+    <title>Magnetic GPS Tracker</title>
+    <s:type>GPS</s:type>
+    <s:vendor>WhereSafe</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0442/8385/5006/products/B07MMBC4SM.jpg?v=1597339325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>WhereSafe<br>
+        <strong>Type: </strong>GPS<br>
+        <strong>Price: </strong>
+            189.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1><span>Magnetic GPS Tracker</span></h1>
+<p><span>A Magnetic GPS Tracker that's portable and features a rechargeable battery. This is WhereSafe's most popular GPS tracking option.</span></p>
+<p><span>The portable Magnetic GPS tracker can be hidden anywhere in your vehicle. </span><span>Strong magnets</span><span> keep it secured under the car, under the hood, or in the trunk. The </span><span>rechargeable battery</span><span> can last for over 2 months on infrequently moved vehicles.</span><br><br><span>The Magnetic GPS Tracker updates every 2 minutes when moving, and sleeps to save the battery when not moving, updating every 8 hours. View the GPS locations on our Android or iPhone app.</span><br><br><span>Customize the alerts you will receive and know when</span><span>:</span><br><span>- your vehicle leaves the city,</span><br><span>- the vehicle or driver is speeding,</span><br><span>- the vehicle moves after hours,</span><br><span>- the device is picked up and removed,</span><br><span>- and when the battery is low and requires a charge.</span><br><br><span>Just Activate the device on a WhereSafe service plan and place the device on a vehicle. Download the app and you are ready to go! </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GPS</s:tag>
+    <s:tag>Hardware</s:tag>
+    <s:tag>Telecommunication</s:tag>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5572502945950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>5000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://canadiancarclub.ca/products/5546746937502</id>
+    <published>2020-08-06T12:52:54-04:00</published>
+    <updated>2020-08-06T12:52:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/products/zte-mf970-mifi"/>
+    <title>ZTE MF970 MIFI</title>
+    <s:type>Hardware</s:type>
+    <s:vendor>iLeague</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0442/8385/5006/products/newMIFI.jpg?v=1597338307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>iLeague<br>
+        <strong>Type: </strong>Hardware<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2><strong>ZTE MF970 MIFI</strong></h2>
+<h4><strong>KEY FEATURES</strong></h4>
+<p><span>With a sleek, portable design that fits in any pocket, you can connect up to 15 devices anywhere there is Rogers coverage.</span><span></span></p>
+<p><strong>BATTERY</strong></p>
+<p><span>Battery Capacity: 2300 mAh</span></p>
+<p><span>Usage: 8 hours</span></p>
+<p><strong>FEATURES</strong></p>
+<p><span>Interface Type: Platform / Operating System : LINUX</span></p>
+<p><span>Supported Operating System: LINUX</span></p>
+<p><span>Download Speeds: 300 Mb/s</span></p>
+<p><span>Upload Speeds: 300 Mb/</span><span>s</span></p>
+<p><span> </span></p>
+<strong>DIMENSIONS</strong>
+<ul type="disc">
+<li><span>Height: 4.1 inches</span></li>
+<li><span>Width: 2.6 inches</span></li>
+<li><span>Depth: 0.6 inches</span></li>
+<li><span>Weight: 3.5 ounces</span></li>
+</ul>
+<p><span> </span></p>
+<p> </p>
+<p><span> </span></p>
+<p><strong>WIRELESS TECHNOLOGY</strong></p>
+<p><span>LTE: Yes</span></p>
+<p><span>3G: No</span></p>
+<p><span>GSM: No</span></p>
+<p><span> </span></p>
+<p><strong>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</strong></p>
+<p><strong>Product Description: </strong>ZTE MF970 Mobile hotspot is a LTE Cat 6 device, compatible with LTE FDD/TDD network, backward working for UMTS GSM.</p>
+<p> </p>
+<p><strong>Specifications: </strong>LTE FDD :DL/UL 300/50Mbps (Category 6) LTE FDD Supports up to 32 WIFI devices</p>
+<p>Wi-Fi 802.11 b/g/n/ac, 2x2 MIMO, dual-band (2.4&amp;5.8GHz)Battery 2300mAh, up to 8.5 hours standby</p>
+<p>1.44" TFT screen, 1 Micro USB port, 1 Func Button, 1 Power Switch, 1 Reset Hole Micro SIM socket, USIMExternal Antenna slot (2) FOTA</p>
+<p> </p>
+<p><strong>Weight/Dimensions: </strong>102 g/10.16 x 6.35 x 1.27 cm</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware</s:tag>
+    <s:tag>Telecommunication</s:tag>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546746937502</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://canadiancarclub.ca/products/5511386267806</id>
+    <published>2020-07-29T14:23:04-04:00</published>
+    <updated>2020-07-29T14:23:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/products/huawei-b612-smart-hub"/>
+    <title>Huawei B612 Smart Hub</title>
+    <s:type>Hardware</s:type>
+    <s:vendor>iLeague</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0442/8385/5006/products/huaweijpeg.jpg?v=1596732730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>iLeague<br>
+        <strong>Type: </strong>Hardware<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Huawei B612 Smart Hub</h1>
+<p><strong>Features:</strong></p>
+<ul type="disc">
+<li><span>LTE Advanced Enabled: LTE Cat 6 allows users to experience download speeds up to 300Mbps and upload speeds up to 50Mbps.</span></li>
+<li><span>Connect multiple users to Wi-Fi: Can simultaneously connect up to 32 Wi-Fi users to 4G mobility network.</span></li>
+<li><span>This is a data only product. Voice function is not supported.</span></li>
+</ul>
+<p><span>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span></p>
+<p><strong>Description:</strong> Huawei B612 Smart Hub; AC Power Cord, Ethernet Cable</p>
+<p><strong>Display: </strong>LED Lights</p>
+<p><strong>Download/Upload Speed: </strong>300Mbps down, 50Mbps ups</p>
+<p><strong>Battery: </strong>None</p>
+<p><strong>Memory: </strong>None</p>
+<p><strong>Expandable Memory:</strong> <strong></strong><strong></strong>None</p>
+<p><strong>Chipset: </strong>HiSilicon Balong750</p>
+<p><strong>SIM Card: </strong>Nano SIM</p>
+<p><strong>Networks: </strong></p>
+<p>LTE: B2/4/5/7</p>
+<p>MIMO 4x4: B4/7</p>
+<p>UMTS: B2/4/5</p>
+<p>GSM: B2/3/5/8</p>
+<p>LTE DL 4x4MIMO, CAT6</p>
+<p><strong>Weight/Dimensions: </strong>410 g/240 x 155 x 78mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hardware</s:tag>
+    <s:tag>Telecommunication</s:tag>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5511386267806</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+</feed>

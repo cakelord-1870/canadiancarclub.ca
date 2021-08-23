@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://canadiancarclub.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://canadiancarclub.ca/collections/sim-cards.atom"/>
+  <title>Canadian Car Club</title>
+  <updated>2020-08-27T09:54:53-04:00</updated>
+  <author>
+    <name>Canadian Car Club</name>
+  </author>
+  <entry>
+    <id>https://canadiancarclub.ca/products/5624577327262</id>
+    <published>2020-08-27T09:54:53-04:00</published>
+    <updated>2020-08-27T09:54:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/products/bring-your-own-phone"/>
+    <title>Bring Your Own Phone</title>
+    <s:type>Telecommunication</s:type>
+    <s:vendor>Canadian Car Club</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0442/8385/5006/products/hand-holds-up-black-mobile-phone-on-red-background.jpg?v=1598538942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canadian Car Club<br>
+        <strong>Type: </strong>Telecommunication<br>
+        <strong>Price: </strong>
+            30.00 - 88.00
+            <a href="https://canadiancarclub.ca/products/bring-your-own-phone">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><b></b></div>
+<div>
+<b>No contract</b><span> </span>- Bring your own unlocked device and start saving with Canadian Car Club Mobile. </div>
+<div><span>Option to importing existing phone number.</span></div>
+<div>
+<div><b>$10 - 1 time Sim Card Fee applies*</b></div>
+<div><b></b></div>
+<div><b></b></div>
+<div><b></b></div>
+<h4><b>Rate Plans</b></h4>
+<div>Voice only - $30/ Month Unlimited Voice Can-Can<br>Voice &amp; Data - $48 - Unlimited Voice &amp; text, Can-Can, Can-US LD- 3MB data<br>Voice &amp; Data - $53 - Unlimited Voice &amp; text, Can-Can, Can-US LD - 5MB data<br>Voice &amp; Data - $58 - Unlimited Voice &amp; text, Can-Can, Can-US LD- 7MB<br>Voice &amp; Data - $68 - Unlimited Voice &amp; text, Can-Can, Can-US LD - 10MB<br>Voice &amp; Data - $78 - Unlimited Voice &amp; text, Can-Can, Can-US LD - 13MB<br>Voice &amp; Data - $88 - Unlimited Voice &amp; text, Can-Can, Can-US LD - 16MB</div>
+<div></div>
+<div></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BYOP</s:tag>
+    <s:tag>Rate Plan</s:tag>
+    <s:tag>SIM card</s:tag>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5624577327262</id>
+      <title>Voice only - $30/ Month Unlimited Voice Can-Can</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5624577327262</id>
+      <title>Voice &amp; Data - $48 - Unlimited Voice &amp; text: Can-Can &amp; Can-US LD- 3MB data</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5624577327262</id>
+      <title>Voice &amp; Data - $53 - Unlimited Voice &amp; text: Can-Can &amp; Can-US LD - 5MB data</title>
+      <s:price currency="CAD">53.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5624577327262</id>
+      <title>Voice &amp; Data - $58 - Unlimited Voice &amp; text: Can-Can &amp; Can-US LD- 7MB</title>
+      <s:price currency="CAD">58.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5624577327262</id>
+      <title>Voice &amp; Data - $68 - Unlimited Voice &amp; text: Can-Can &amp; Can-US LD - 10MB</title>
+      <s:price currency="CAD">68.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5624577327262</id>
+      <title>Voice &amp; Data - $78 - Unlimited Voice &amp; text: Can-Can &amp; Can-US LD - 13MB</title>
+      <s:price currency="CAD">78.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5624577327262</id>
+      <title>Voice &amp; Data - $88 - Unlimited Voice &amp; text: Can-Can &amp; Can-US LD - 16MB</title>
+      <s:price currency="CAD">88.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://canadiancarclub.ca/products/5546804805790</id>
+    <published>2020-08-06T13:34:40-04:00</published>
+    <updated>2020-08-06T13:34:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/products/annual-prepaid-data-sim-cards"/>
+    <title>Annual Prepaid Data SIM Cards</title>
+    <s:type>Telecommunication</s:type>
+    <s:vendor>iLeague</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0442/8385/5006/products/03C92991-5915-47B1-B506-1F55184CC27B-2.jpg?v=1596735281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>iLeague<br>
+        <strong>Type: </strong>Telecommunication<br>
+        <strong>Price: </strong>
+            102.00 - 365.00
+            <a href="https://canadiancarclub.ca/products/annual-prepaid-data-sim-cards">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our extended annual data plans are unique and offer you the freedom to pay once annually for your data eliminating monthly bills and hassles.</p>
+<p>SIM cards provided are on Rogers - Canada's Largest Wireless Network. This gives you access to fast, reliable LTE connections almost anywhere across the country.</p>
+<p> </p>
+<p><strong>Details:</strong></p>
+<p>Prepay for data via credit card or e-transfer before receiving your SIM, charges are one-time</p>
+<p>1-year window to use data upon activation</p>
+<p>Data broken up by volume monthly</p>
+<p>New Activation fee $0</p>
+<p>Re-Activation fee n/a</p>
+<p>Deactivation fee $ n/a</p>
+<p>Shipping and HST extra on all plans</p>
+<p> </p>
+<p><strong>Terms of Use:</strong></p>
+<p>Data only SIMs - does not include voice or text</p>
+<p>No refunds once 10MB of data has been used</p>
+<p>Data is capped and shuts down (monthly) upon reaching your purchased data limit</p>
+<p>For full terms and conditions, visit website <a href="https://www.ileaguewireless.com" title="iLeagueWireless">www.ileaguewireless.com</a></p>
+<p> </p>
+<h4>FAQs</h4>
+<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SIM card</s:tag>
+    <s:tag>Telecommunication</s:tag>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546804805790</id>
+      <title>1GB/mth annually</title>
+      <s:price currency="CAD">102.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546804805790</id>
+      <title>2GB/mth annually</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546804805790</id>
+      <title>5GB/mth annually</title>
+      <s:price currency="CAD">287.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546804805790</id>
+      <title>10GB/mth annually</title>
+      <s:price currency="CAD">365.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://canadiancarclub.ca/products/5546797990046</id>
+    <published>2020-08-06T13:27:15-04:00</published>
+    <updated>2020-08-06T13:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://canadiancarclub.ca/products/monthly-prepaid-data-sim-cards"/>
+    <title>Monthly Prepaid Data Sim Cards</title>
+    <s:type>Telecommunication</s:type>
+    <s:vendor>iLeague</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0442/8385/5006/products/03C92991-5915-47B1-B506-1F55184CC27B-1.jpg?v=1596734836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>iLeague<br>
+        <strong>Type: </strong>Telecommunication<br>
+        <strong>Price: </strong>
+            15.00 - 160.00
+            <a href="https://canadiancarclub.ca/products/monthly-prepaid-data-sim-cards">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our monthly prepaid Service gives you flexibility from long term contracts, complex billing, and costly overages. You pay for what you use only.</p>
+<p> </p>
+<p>Sim cards provided are on Rogers - Canada's largest wireless network. This gives you access to fast, reliable LTE connections almost anywhere across the country.</p>
+<p><strong><br></strong></p>
+<p><strong>Details: </strong></p>
+<p>Prepay for data via credit card or e-transfer before receiving your SIM</p>
+<p>30-day window to use data upon activation</p>
+<p>New Activation fee $0</p>
+<p>Re-activation fee $5.00 (if not active for 30 days or more)</p>
+<p>Deactivation fee $0</p>
+<p>Shipping and HST extra on all plans</p>
+<p><strong><br></strong></p>
+<p><strong>Terms of Use:</strong></p>
+<p>Data only SIMs - does not include voice or text</p>
+<p>No refunds once 10MB of data has been used</p>
+<p>Data is capped and shuts down upon reaching your purchased data limit within 30 days</p>
+<p>For full terms and conditions, visit website: <a href="https://www.ileaguewireless.com" title="iLeagueWireless">www.ileaguewireless.com</a></p>
+<p> </p>
+<h4>FAQs</h4>
+<p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SIM card</s:tag>
+    <s:tag>Telecommunication</s:tag>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546797990046</id>
+      <title>1GB/mth</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546797990046</id>
+      <title>5GB/mth</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546797990046</id>
+      <title>10GB/mth</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546797990046</id>
+      <title>20GB/mth</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://canadiancarclub.ca/products/5546797990046</id>
+      <title>50GB/mth</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+</feed>
